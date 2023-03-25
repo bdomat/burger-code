@@ -95,3 +95,7 @@ body {
 .table .btn {
   margin: 3px;
 }
+
+.help-inline{
+  color: red;
+}
