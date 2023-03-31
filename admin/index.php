@@ -23,7 +23,7 @@
     <h1 class="text-logo"><i class="fa-solid fa-utensils"></i> Burger Code <i class="fa-solid fa-utensils"></i></h1>
     <div class="container admin">
         <div class="row">
-            <h1><strong>Liste des items </strong><a href="" class="btn btn-success btn-lg"><i class="fa-solid fa-plus"></i>
+            <h1><strong>Liste des items </strong><a href="insert.php" class="btn btn-success btn-lg"><i class="fa-solid fa-plus"></i>
  Ajouter </a></h1>
             <table class="table table-striped table-bordered">
                 <thead>
